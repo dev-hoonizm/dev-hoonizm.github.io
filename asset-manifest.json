@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.f855e6bc.css",
-    "main.js": "/static/js/main.f677b9ed.js",
+    "main.js": "/static/js/main.a3eef136.js",
     "static/js/453.1435a5d5.chunk.js": "/static/js/453.1435a5d5.chunk.js",
     "static/media/tokyo.jpg": "/static/media/tokyo.c7307b455ce4e65001c5.jpg",
     "index.html": "/index.html",
     "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
-    "main.f677b9ed.js.map": "/static/js/main.f677b9ed.js.map",
+    "main.a3eef136.js.map": "/static/js/main.a3eef136.js.map",
     "453.1435a5d5.chunk.js.map": "/static/js/453.1435a5d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.f677b9ed.js"
+    "static/js/main.a3eef136.js"
   ]
 }
